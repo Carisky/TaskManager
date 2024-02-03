@@ -1,0 +1,35 @@
+.wrapper{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.priorityIndicator {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    border: #00000025 2px solid;
+  }
+  
+  .green {
+    background-color: #1bec68;
+  }
+  
+  .yellow {
+    background-color: #ffb600;
+  }
+  
+  .red {
+    background-color: #ec1b1b;
+  }
+  
+  .info-show {
+    cursor: pointer;
+    color: #027a16;
+  }
+  
+  .delete-show {
+    cursor: pointer;
+    color: #b3240e;
+  }

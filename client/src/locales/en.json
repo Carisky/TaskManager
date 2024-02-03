@@ -1,0 +1,68 @@
+{
+    "pages": {
+        "projectsPage": {
+            "Title": "Projects Page",
+            "Add Project Button": "Add Project"
+        },
+        "statsPage": {
+            "Title": "Stats Page"
+        },
+        "settingsPage": {
+            "Title": "Settings Page"
+        },
+        "tasksPage": {
+            "Title":"Tasks Page",
+            "TaskPageTableHeaders": {
+                "Priority": "Priority",
+                "Task Title": "Task Title",
+                "Due Date": "Due Date",
+                "Is Done": "Is Done",
+                "Actions": "Actions"
+            },
+            "Add Task Button": "Add Task",
+            "Date Filter Options": {
+                "day": "day",
+                "week": "week",
+                "month": "month"
+            }
+        }
+    },
+    "menu": {
+        "Tasks": "Tasks",
+        "Projects": "Projects",
+        "Stats": "Stats",
+        "Settings": "Settings"
+    },
+    "forms": {
+        "taskForm": {
+            "Add Task": "Add Task",
+            "Update Task": "Update Task",
+            "Add Task to Project": "Add Task to Project",
+            "Title": "Title",
+            "Due Date": "Due Date",
+            "Priority": "Priority",
+            "Description": "Description",
+            "Tags": "Tags",
+            "Options": {
+                "High": "High",
+                "Medium": "Medium",
+                "Low": "Low"
+            }
+        },
+        "projectForm": {
+            "Add Project": "Add Project",
+            "Edit Project": "Edit Project",
+            "Title": "Title",
+            "Description": "Description"
+        }
+    },
+    "components":{
+        "Project":{
+            "Add Task Button":"Add Task"
+        },
+        "LanguageSwitcher":{
+            "Label":"Language"
+        }
+    }
+
+}

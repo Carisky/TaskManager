@@ -1,0 +1,67 @@
+{
+    "pages": {
+        "projectsPage": {
+            "Title": "Страница проектов",
+            "Add Project Button": "Добавить проект"
+        },
+        "statsPage": {
+            "Title": "Страница статистики"
+        },
+        "settingsPage": {
+            "Title": "Страница настроек"
+        },
+        "tasksPage": {
+            "Title":"Страница задач",
+            "TaskPageTableHeaders": {
+                "Priority": "Приоритет",
+                "Task Title": "Заголовок задачи",
+                "Due Date": "Срок выполнения",
+                "Is Done": "Выполнено",
+                "Actions": "Действия"
+            },
+            "Add Task Button": "Добавить задачу",
+            "Date Filter Options": {
+                "day": "день",
+                "week": "неделя",
+                "month": "месяц"
+            }
+        }
+    },
+    "menu": {
+        "Tasks": "Задачи",
+        "Projects": "Проекты",
+        "Stats": "Статистика",
+        "Settings": "Настройки"
+    },
+    "forms": {
+        "taskForm": {
+            "Add Task": "Добавить задачу",
+            "Update Task": "Обновить задачу",
+            "Add Task to Project": "Добавить задачу в проект",
+            "Title": "Заголовок",
+            "Due Date": "Срок выполнения",
+            "Priority": "Приоритет",
+            "Description": "Описание",
+            "Tags": "Теги",
+            "Options": {
+                "High": "Высокий",
+                "Medium": "Средний",
+                "Low": "Низкий"
+            }
+        },
+        "projectForm": {
+            "Add Project": "Добавить проект",
+            "Edit Project": "Редактировать проект",
+            "Title": "Заголовок",
+            "Description": "Описание"
+        }
+    },
+    "components": {
+        "Project": {
+            "Add Task Button": "Добавить задачу"
+        },
+        "LanguageSwitcher":{
+            "Label":"Язык"
+        }
+    }
+}
